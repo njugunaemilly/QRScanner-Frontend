@@ -2,6 +2,9 @@
 
 This is a QR Scanner application that allows users to scan QR codes using their web camera and are re-directed their desired web page. This is a react.js application.
 
+## Technologies Used
+React.js
+Html5-QRCode
 
 ## Get Started
 
